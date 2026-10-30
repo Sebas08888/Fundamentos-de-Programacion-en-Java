@@ -22,4 +22,5 @@ public class Ejercicio1 {
 
         sc.close();
     }
+    
 }
